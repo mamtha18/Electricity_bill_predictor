@@ -31,14 +31,12 @@ Electricity-Bill-Predictor/
 ├── data/
 │   └── Electricity_Bill_Dataset.xlsx
 │
-├── notebook/
-│   └── Electricity_Bill_Prediction.ipynb
+├── visual studio code/
+│   └── app.py
 │
-├── model/
-│   └── trained_model.pkl
 │
 ├── README.md
-└── requirements.txt
+
 ```
 
 ---
