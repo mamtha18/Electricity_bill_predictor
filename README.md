@@ -31,7 +31,7 @@ Electricity-Bill-Predictor/
 ├── data/
 │   └── Electricity_Bill_Dataset.xlsx
 │
-├── visual studio code/
+├── coding/
 │   └── app.py
 │
 │
@@ -99,7 +99,7 @@ jupyter notebook
 - Build a Streamlit web application.
 - Improve model accuracy.
 - Deploy the project online.
-- Add more real-world features.
+  
 
 ---
 
