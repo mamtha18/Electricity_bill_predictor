@@ -99,7 +99,7 @@ jupyter notebook
 - Build a Streamlit web application.
 - Improve model accuracy.
 - Deploy the project online.
-- Add more real-world features.
+  
 
 ---
 
