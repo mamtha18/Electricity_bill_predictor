@@ -31,7 +31,7 @@ Electricity-Bill-Predictor/
 ├── data/
 │   └── Electricity_Bill_Dataset.xlsx
 │
-├── visual studio code/
+├── coding/
 │   └── app.py
 │
 │
